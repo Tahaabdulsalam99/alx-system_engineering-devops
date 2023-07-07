@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from=guillan betty hello
+groups
